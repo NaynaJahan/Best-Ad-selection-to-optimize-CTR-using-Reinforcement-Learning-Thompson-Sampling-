@@ -1,4 +1,2 @@
 # Best-Ad-selection-to-optimize-CTR-using-Reinforcement-Learning-Thompson-Sampling-
 Best Ad selection among many advertisements shown to different users/website viewer to optimize Click-through rate and to maximize the company's income from this new revenue stream using Thompson Sampling - a reinforcement learning approach. As the customer navigates the website, they will suddenly get a pop-up ad, suggesting to them to take an action. For each customer browsing the website, only one of nine ads will be displayed. Then the user will choose, or not, to take action. If the customer subscribes, the strategy is a success; otherwise, it is a failure. The more customers we do this with, the more feedback we collect, and the better idea we get of what the best ad is. This whole data(environment of selecting ad) is made up inside simulation and the best ad among the 9 ads is shown using a histogram.
-
-***Dataset not included in Github Repository***
